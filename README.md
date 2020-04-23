@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.com/oqtavelabs/oqtave-charts.svg?branch=master)](https://travis-ci.com/oqtavelabs/oqtave-charts)
+
+[![Coverage Status](https://coveralls.io/repos/github/oqtavelabs/oqtave-charts/badge.svg?branch=master)](https://coveralls.io/github/oqtavelabs/oqtave-charts?branch=master)
+
 # Oqtave Charts
 
 Oqtave charts is a npm library which enables server side chart.js implementation.
