@@ -1,5 +1,5 @@
 {
-  "name": "charts",
+  "name": "@oqtavelabs/charts",
   "version": "1.0.0",
   "description": "Generate node.js server side charts",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "xfdf@fs"
+    "url": "https://github.com/oqtavelabs/oqtave-charts.git"
   },
   "keywords": [
     "node",

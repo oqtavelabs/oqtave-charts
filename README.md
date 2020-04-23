@@ -13,7 +13,7 @@ npm install oqtave-charts
 ## Usage
 
 ```javascript
-const oqtavecharts = require("oqtave-charts");
+const oqtavecharts = require("@oqtavelabs/charts");
 
 oqtavecharts.writeChartImage({
       filename: "image.png",
