@@ -7,7 +7,7 @@ Oqtave charts is a npm library which enables server side chart.js implementation
 Use the npm to install oqtave-charts.
 
 ```bash
-npm install oqtave-charts
+npm i @oqtavelabs/charts
 ```
 
 ## Usage
