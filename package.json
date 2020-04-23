@@ -1,0 +1,35 @@
+{
+  "name": "charts",
+  "version": "1.0.0",
+  "description": "Generate node.js server side charts",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "xfdf@fs"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "chartjs",
+    "server",
+    "side",
+    "jsdom"
+  ],
+  "author": "Oqtave Labs <oqtavelabs@gmail.com> (https://www.oqtavelabs.com)",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "chart.js": "^2.9.3",
+    "exceljs": "^3.8.2",
+    "jsdom": "^16.2.2",
+    "jsdom-global": "^3.0.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-fs": "^2.0.0",
+    "mocha": "^7.1.1"
+  }
+}
