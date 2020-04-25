@@ -1,11 +1,11 @@
 {
   "name": "@oqtavelabs/charts",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Generate node.js server side charts",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec",
-    "cover":"node node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*"
+    "cover": "node node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*"
   },
   "repository": {
     "type": "git",

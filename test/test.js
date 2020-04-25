@@ -1,6 +1,6 @@
 const oqtavecharts = require("../index");
-const chai = require('chai');
-chai.use(require('chai-fs'));
+const chai = require("chai");
+chai.use(require("chai-fs"));
 
 describe("#OqtaveCharts", () => {
   it("should create chart file", () => {
