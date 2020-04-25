@@ -1,6 +1,6 @@
 {
   "name": "@oqtavelabs/charts",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generate node.js server side charts",
   "main": "index.js",
   "scripts": {
